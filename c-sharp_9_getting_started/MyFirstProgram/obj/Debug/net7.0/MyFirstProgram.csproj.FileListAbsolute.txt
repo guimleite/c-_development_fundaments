@@ -1,0 +1,15 @@
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.exe
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.deps.json
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.runtimeconfig.json
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.dll
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.pdb
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.csproj.AssemblyReference.cache
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.AssemblyInfo.cs
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.dll
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\refint\MyFirstProgram.dll
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.pdb
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.genruntimeconfig.cache
+D:\Projects\Pluralsight\C# 9_Getting_Started\MyFirstProgram\obj\Debug\net7.0\ref\MyFirstProgram.dll
