@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0dOEMYh11Q7GfyIlA7Su8DkIvnkVhJKGYDthtVAD7PeSXJHdjWtWRaKbwfCUojGyCWzmbGfFSmTHeq/M9Jtkg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Pluralsight\\Introduction to the C# 9 Type System\\06\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gui\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

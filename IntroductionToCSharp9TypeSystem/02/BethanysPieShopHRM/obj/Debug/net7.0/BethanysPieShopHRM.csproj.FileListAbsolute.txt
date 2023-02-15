@@ -1,0 +1,15 @@
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.csproj.AssemblyReference.cache
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.AssemblyInfo.cs
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.exe
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.deps.json
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.runtimeconfig.json
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.dll
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.pdb
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.dll
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\refint\BethanysPieShopHRM.dll
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.pdb
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.genruntimeconfig.cache
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\BethanysPieShopHRM\obj\Debug\net7.0\ref\BethanysPieShopHRM.dll

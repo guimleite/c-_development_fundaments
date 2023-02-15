@@ -1,0 +1,16 @@
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.csproj.AssemblyReference.cache
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.AssemblyInfo.cs
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.exe
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.deps.json
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.runtimeconfig.json
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.runtimeconfig.dev.json
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.dll
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.pdb
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.dll
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\refint\BethanysPieShopHRM.dll
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.pdb
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.genruntimeconfig.cache
+D:\Projects\Pluralsight\Introduction to the C# 9 Type System\03\BethanysPieShopHRM\obj\Debug\net5.0\ref\BethanysPieShopHRM.dll
